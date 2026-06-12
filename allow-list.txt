@@ -1,3 +1,4 @@
 0.0.0.0 wa.me
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 click.redditmail.com
+0.0.0.0 ad.soicos.com
